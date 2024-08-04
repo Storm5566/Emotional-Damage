@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = 'cc42f49b-1da4-4c54-b0cb-0d562c195ab7';
 
 //how to Find พร็อกซีไอพีs : https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
-const พร็อกซีไอพีs = ['ni.radically.pro'];
+const พร็อกซีไอพีs = ['bpp.radically.pro'];
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
