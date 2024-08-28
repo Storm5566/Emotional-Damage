@@ -20,7 +20,7 @@ let IP3 = 'africa.visa.com'
 let IP4 = 'www.visa.com.sg'
 let IP5 = 'sky.rethinkdns.com'
 let IP6 = 'go.inmobi.com'
-let IP7 = 'icook.hk'
+let IP7 = 'emotional-damage-75i.pages.dev'
 
 // https_ip
 let IP8 = 'usa.visa.com'
@@ -28,7 +28,7 @@ let IP9 = 'www.speedtest.net'
 let IP10 = 'creativecommons.org'
 let IP11 = 'sky.rethinkdns.com'
 let IP12 = 'zula.ir'
-let IP13 = 'www.wto.org'
+let IP13 = 'emotional-damage-75i.pages.dev'
 
 // http_port
 let PT1 = '80'
